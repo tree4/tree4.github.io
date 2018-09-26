@@ -142,7 +142,7 @@
 	var oP=oDiv.getElementsByTagName("p")[0];
 	var aText=["爸爸去222~","爸爸去111~","爸爸去去哪儿~"];
 	console.log(aLi2);
-	selection(aLi1,aLi2);
+	selection(aLi2,aLi1);
 	var index=0;
 	var timer=setInterval(function(){
 		index++;
